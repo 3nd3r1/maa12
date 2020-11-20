@@ -8,7 +8,6 @@ class puolitus
     public $b;
     public $decimal;
     public $fx;
-
     protected $sread;
     protected $sh;
 
